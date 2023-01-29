@@ -3,8 +3,8 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Screenshot
 
-![Desktop](images/Capture-desk.jpg)
-![Mobile](images/Capture-mobile.jpg)
+![Desktop](First-landing-page/images/Capture-desk.JPG)
+![Mobile](First-landing-page/images/Capture-mobile.JPG)
 
 
 ### Built with
