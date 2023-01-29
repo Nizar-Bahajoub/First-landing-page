@@ -3,7 +3,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Screenshot
 
-![Desktop](../images/Capture-desk.jpg)
+![Desktop](images/Capture-desk.jpg)
 ![Mobile](images/Capture-mobile.jpg)
 
 
